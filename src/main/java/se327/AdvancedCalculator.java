@@ -1,6 +1,6 @@
 package se327;
 
-public class AdvanceCalculator extends Calculator{
+public class AdvancedCalculator extends Calculator{
     public double power(int base, int exponent){
         return Math.pow(base, exponent);
     }
